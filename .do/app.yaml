@@ -1,0 +1,6 @@
+name: shark-app
+region: NYC1
+services:
+- dockerfile_path: /backend-server/Dockerfile
+  github:
+    branch: main
